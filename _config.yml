@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              encepnurdin62@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "contohbuatblog.github.io"
-url:                "contohbuatblog.github.io"
+baseurl:            
+url:                
 
 # Social Profiles
 twitter_username:   SBootstrap
